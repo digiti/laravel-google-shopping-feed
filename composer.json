@@ -1,0 +1,26 @@
+{
+    "name": "digiti/laravel-google-shopping-feed",
+    "description": "Laravel Google Shopping Feed",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Digiti\\GoogleShoppingFeed\\": "src"
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "laravel/framework": "^10.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Digiti\\GoogleShoppingFeed\\GoogleShoppingFeedServiceProvider"
+            ],
+            "aliases": {
+                "GoogleShoppingFeed": "Digiti\\GoogleShoppingFeed\\GoogleShoppingFeedFacade"
+            }
+        }
+    }
+}
