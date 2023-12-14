@@ -1,10 +1,10 @@
 <p align="center">
     <img src="https://digiti.be/images/logo.svg" width="600" alt="Digiti">
     <p align="center">
-        <a href="https://github.com/digiti/laravel-google-shopping-feed/actions"><img alt="GitHub Workflow Status (master)" src="https://img.shields.io/github/actions/workflow/status/digiti/laravel-google-shopping-feed/run-tests.yml?branch=main"></a>
+        <a href="https://github.com/digiti/laravel-google-shopping-feed/actions"><img alt="GitHub Workflow Status (main)" src="https://img.shields.io/github/actions/workflow/status/digiti/laravel-google-shopping-feed/run-tests.yml?branch=main"></a>
         <a href="https://packagist.org/packages/digiti/laravel-google-shopping-feed"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/digiti/laravel-google-shopping-feed"></a>
         <a href="https://packagist.org/packages/digiti/laravel-google-shopping-feed"><img alt="Latest Version" src="https://img.shields.io/packagist/v/digiti/laravel-google-shopping-feed"></a>
-        <a href="https://packagist.org/packages/digiti/laravel-google-shopping-feed"><img alt="License" src="https://img.shields.io/packagist/l/digiti/laravel-google-shopping-feed"></a>
+        <a href="https://packagist.org/packages/digiti/laravel-google-shopping-feed"><img alt="License" src="https://img.shields.io/github/license/digiti/laravel-google-shopping-feed"></a>
     </p>
 </p>
 
