@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="https://digiti.be/images/logo.svg" width="300" alt="Digiti">
-    <br>
+    <img src="https://digiti.be/images/logo.svg" width="180" alt="Digiti" style="margin-bottom:15px;">
     <p align="center">
         <a href="https://github.com/digiti/laravel-google-shopping-feed/actions"><img alt="GitHub Workflow Status (main)" src="https://img.shields.io/github/actions/workflow/status/digiti/laravel-google-shopping-feed/run-tests.yml?branch=main"></a>
         <a href="https://packagist.org/packages/digiti/laravel-google-shopping-feed"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/digiti/laravel-google-shopping-feed"></a>
